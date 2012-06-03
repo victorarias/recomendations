@@ -1,4 +1,4 @@
 recomendations
 ==============
 
-Simple recomendation algorithm written in Ruby
+Simple recommendation algorithm written in Ruby
